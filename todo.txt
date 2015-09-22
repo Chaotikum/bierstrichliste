@@ -1,0 +1,6 @@
+- leere Accounts verschwinden nach n Tagen
+- Accounts leicht anlegen
+- lokales Netz und Kühlschrank
+- History eines Accounts anzeigen
+- ton spielen, wenn etwas geklickt worden ist
+- store database on every change

@@ -1,0 +1,12 @@
+port: 2500
+purgeAccounts: 180
+purgeHistory: 90
+beverages:
+  - name: Clubmate
+    price: 1.00
+  - name: Wasser
+    price: 1.00
+  - name: Malzbier
+    price: 1.00
+  - name: Etwas anderes
+    price: 1.00
